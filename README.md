@@ -9,8 +9,6 @@
 
 ## 🧠 Paper Overview
 
-The model leverages **Denoising Diffusion Implicit Models (DDIM)** to learn the distribution of normal PPG signals, enabling label-free detection of morphological anomalies indicative of hypertension.
-
 **Abstract**: 
 Conventional PPG-based features often rely on localized waveform descriptors, making them highly sensitive to noise and inter-subject variability, which limits the accuracy and personalization of blood pressure monitoring. To address these issues, we propose the Topological Prior Vector (TPV), a 33-dimensional feature representation derived from persistent homology of PPG signals. Unlike traditional approaches, TPV compactly encodes the global topological structure of waveforms, providing interpretable and subject-specific characteristics. We evaluated TPV on normotensive and hypertensive cohorts using both short- and long-term recordings, assessing intra-subject stability, inter-subject separability, and correlations with systolic and diastolic blood pressure. Experimental results demonstrate that TPV exhibits strong temporal consistency and significant associations with blood pressure variability, supporting its potential as a non-invasive and physiologically meaningful descriptor for personalized blood pressure monitoring.
 
