@@ -30,11 +30,7 @@ The framework was validated on three public datasets:
 
 ## 💻 Repository Structure
 
-| File/Folder               | Description |
-|---------------------------|-------------|
-| `model.py`                | UNet-based 1D DDIM architecture |
-| `train_ddim.py`           | Training loop (unsupervised) |
-| `inference.py`            | Anomaly scoring & threshold-based detection |
+Here is an example Python implementation for extracting 33-dimensional TPV features from PPG or ECG signals using Persistent Homology
 
 ---
 
